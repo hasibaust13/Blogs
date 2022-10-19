@@ -1,1 +1,1 @@
-# Blogs
+# Higher Studies Blogs
