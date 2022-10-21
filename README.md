@@ -1,1 +1,1 @@
-# Higher Studies Blogs
+# Higher Studies + FAANG Blogs
