@@ -1,0 +1,53 @@
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗚𝘂𝗶𝗱𝗲 (𝟮𝟬𝟮𝟮)
+
+𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗣𝗿𝗼𝗰𝗲𝘀𝘀
+  
+👉 𝗥𝗲𝗰𝗿𝘂𝗶𝘁𝗲𝗿 𝗣𝗿𝗲-𝘀𝗰𝗿𝗲𝗲𝗻 (20-30 mins) – Non-technical chat about your resume and background. Get ready to answer questions like Why #google? Why are you leaving your current job? What's your biggest achievement?
+
+👉 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗣𝗵𝗼𝗻𝗲 𝗦𝗰𝗿𝗲𝗲𝗻𝘀 (40-60 mins) – One or two phone screens with the hiring manager or a Google employee. You'll solve a coding question related to #datastructures and #algorithms on a shared Google Doc. Some questions on your background.
+
+👉 𝗢𝗻𝘀𝗶𝘁𝗲 𝗟𝗼𝗼𝗽 (4-5 interviews) – #coding and #systemdesign questions. Expect questions related to slightly harder data structure, algorithms, and system design.
+
+Google evaluates candidates on 4 criteria:
+ 
+𝟭) 𝗚𝗼𝗼𝗴𝗹𝗲𝘆𝗻𝗲𝘀𝘀
+Googleyness means putting the user first, being friendly, approachable, humble, doing something nice for others, being proactive, and keeping your eye on the goal. You'll be judged for being a team player and having a bias for action.
+
+𝟮) 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗖𝗼𝗴𝗻𝗶𝘁𝗶𝘃𝗲 𝗔𝗯𝗶𝗹𝗶𝘁𝘆
+Your ability to solve problems and explain your thought process. Expect open-ended questions like how would you optimize this further? The interviewer wants to know how you learn and adapt to a situation.
+​
+𝟯) 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽
+Your ability to take on tough problems and step back when it's not needed. They'll gauge if you can mobilize a team to solve a difficult problem. Get ready to answer questions like, how have you demonstrated leadership when you weren't the manager? how have you dealt with trade-offs and ambiguity?
+​
+𝟰) 𝗥𝗼𝗹𝗲-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲
+Is your technical expertise sufficient to drive impact at Google? How will you grow and scale with the company? Questions: Tell me about a recent/interesting project you worked on. How would you design a task scheduling system?
+
+
+𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗧𝗶𝗽𝘀
+* Data Structures - Practice Heaps, HashTable, Tree, Stack, Queue, Graph, and Trie. 
+* Algorithm - Practice Dynamic Programming, Quick-Sort, Breadth-first and Depth-first search.
+* Explain your thought process - Practice describing your design decisions clearly and concisely.
+* Collaborate – Don't forget to discuss tradeoffs, present multiple solutions, and take hints from the interviewer.
+
+𝗧𝗼𝗽 𝗿𝗲𝗰𝗲𝗻𝘁 𝗚𝗼𝗼𝗴𝗹𝗲 𝘁𝗮𝗴𝗴𝗲𝗱 𝗖𝗼𝗱𝗶𝗻𝗴 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 #𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲
+Happy Number (easy)
+Minimum Meeting Rooms (medium)
+Number of Islands (medium)
+Merge Intervals (medium)
+Number of Closed Islands (medium)
+Making a Large Island (hard)
+Employee Free Time (hard)
+Alien Dictionary (hard)
+  
+𝗧𝗼𝗽 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+Design a Web Crawler
+Design Google Docs
+Design a Messenger
+Design YouTube
+
+✅ Follow: Arslan Ahmad
+
+𝗥𝗲𝗳:
+1) Grokking the Coding Interview: https://lnkd.in/gkjFsTxa
+2) Grokking the System Design Interview: https://lnkd.in/g4Wii9r7
+
