@@ -1,0 +1,28 @@
+Scientists at Northwestern University’s Kellogg School of Management have established a causal relationship between failure and future success, proving German philosopher Friedrich Nietzsche’s adage that “what does not kill me makes me stronger.”
+
+The researchers utilized advanced analytics to assess the relationship between professional failure and success for young scientists. They found, in contrast to their initial expectations, that failure early in one’s career leads to greater success in the long term for those who try again.
+
+“The attrition rate does increase for those who fail early in their careers,” lead author Yang Wang said. “But those who stick it out, on average, perform much better in the long term, suggesting that if it doesn’t kill you, it really does make you stronger.”
+
+The study, “Early-career setback and future career impact,” was published in Nature Communications. The findings provide a counter-narrative to the Matthew Effect, which posits a “rich get richer” theory that success begets more success.
+
+“It turns out that, historically, while we have been relatively successful in pinpointing the benefits of success, we have failed to understand the impact of failure,” said Dashun Wang, corresponding author and associate professor of management and organizations at Kellogg. 
+
+Methodology and findings 
+Researchers analyzed records of scientists who, early in their careers, applied for R01 grants from the National Institutes of Health (NIH) between 1990 and 2005. They utilized the NIH’s evaluation scores to separate individuals into two groups: (1) the “near-misses” whose scores were just below the threshold that received funding and (2) the “just-made-its” whose scores were just above that threshold.
+
+Researchers then considered how many papers each group published, on average, over the next 10 years and how many of those papers turned out to be hits, as determined by the number of citations those papers received.
+
+Analysis revealed that individuals in the near-miss group received less funding, but published just as many papers, and more hit papers, than individuals in the just-made-it group. The researchers found that individuals in the near-miss funding group were 6.1% more likely to publish a hit paper over the next 10 years compared to scientists in the just-made-it group.
+
+“The fact that the near-miss group published more hit papers than the just-made-it group is even more surprising when you consider that the just-made-it group received money to further their work, while the near-miss group did not,” said Benjamin Jones, study co-author and the Gordon and Llura Gund Family Professor of Entrepreneurship at Kellogg.
+
+Researchers wondered whether the effect could be attributed to a “weed-out” phenomenon – that the early-career failure caused some scientists in the near-miss group to exit the field, leaving only the most-determined members. Further analysis revealed that while the attrition rate after failure was 10 percent higher for the near-miss group, that alone could not account for the greater success later in their careers. 
+
+After testing a number of other possible explanations for the long-term success of the near-miss group, researchers could not find any supporting evidence for any of their hypotheses, suggesting other unobservable factors, such as grit or lessons learned, might be at play.
+
+The research does not contradict the Matthew Effect, but rather suggests a complementary path for those who fail.
+
+“There is value in failure,” Dashun Wang said. “We have just begun expanding this research into a broader domain and are seeing promising signals of similar effects in other fields.” 
+
+Yang Wang , a postdoctoral fellow at Kellogg, is lead author of the study. All three researchers involved in the study are faculty in Northwestern’s Center for the Science of Science and Innovation, which is dedicated to understanding the conditions that lead to scientific success and failure.
